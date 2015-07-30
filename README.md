@@ -65,7 +65,7 @@ R Plots:
 index1.html:
 - Used Code: "index1.html"
 
-Feedback 1:
+Feedback 1:__
 R Plots:
 - Colors are too bright
 - No Title or Y-Axis labelled
@@ -75,7 +75,7 @@ index1.html:
 - X-Axis in Plot 2 should be sorted
 - Data Labels would be nice
 
-Feedback 2:
+Feedback 2:__
 R Plots:
 - good plots for overview
 - Colors should be changed
@@ -84,7 +84,7 @@ index1.html:
 - please label the Axes
 - without na values would be better
 
-Feedback 3:
+Feedback 3:__
 R Plots:
 - no sharp resolution
 - boring background of the plots
